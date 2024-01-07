@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+### We are Hidt Agency - a digital agency that will win the outsourcing market's loyalty with our team's skills, knowledge of the industry and commitment to the client. 
 
-**Here are some ideas to get you started:**
+### Our team combines professionalism and experience, reflected in our work in harmony with efficiency and timeliness.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Working with us, client receives the best solution in terms of price/quality ratio, respect in communication, and high-quality work done on time.
+
+#### Contact us: contact@hidt.tech
