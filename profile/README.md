@@ -1,9 +1,13 @@
-## Hi there 👋
+<h3 align="center">👋 Hi there</h3>
 
-### We are Hidt Agency - a digital agency that will win the outsourcing market's loyalty with our team's skills, knowledge of the industry and commitment to the client. 
+<p align="center">
+   We are Hidt Agency - a digital agency that will win the outsourcing market's loyalty with our team's skills, knowledge of the industry and commitment to the client. 
+</p>
+<p align="center">
+   Our team combines professionalism and experience, reflected in our work in harmony with efficiency and timeliness.
+</p>
+<p align="center">
+   Working with us, client receives the best solution in terms of price/quality ratio, respect in communication, and high-quality work done on time.
+</p>
 
-### Our team combines professionalism and experience, reflected in our work in harmony with efficiency and timeliness.
-
-### Working with us, client receives the best solution in terms of price/quality ratio, respect in communication, and high-quality work done on time.
-
-#### Contact us: contact@hidt.tech
+<h3 align="center">🌐 Let's Connect</h3>
